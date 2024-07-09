@@ -85,3 +85,53 @@
 }
 
 /* hero banner completed */
+.container {
+    margin: 70px 150px;
+}
+
+.why_developing_section {
+    padding: 70px;
+    border-radius: 16px;
+}
+
+.why_developing_contents_align {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 70px;
+
+}
+
+.why_developing_section_title {
+    color: rgb(13, 19, 33);
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.why_developing_section_description {
+    color: gray;
+    margin: 25px 10% 100px 10%;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.learn_more_div_Container {
+    margin: 0 10%;
+}
+
+.why_developing_contents_title {
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.why_developing_contents_description {
+    color: rgb(13, 19, 33);
+    margin-top: 16px;
+    margin-bottom: 40px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+/* Why web Developing Section DOne */
