@@ -29,4 +29,59 @@
     background-color: transparent;
 }
 
+.nav_btn:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    transition: all 300ms ease-in-out;
+}
+
 /* Navbar completed */
+
+.hero_banner {
+    background-image: url(assets/Hero-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 6%;
+
+}
+
+.banner_align {
+    text-align: center;
+
+}
+
+.banner_title {
+    color: rgb(13, 19, 33);
+    font-size: 48px;
+    font-weight: 700;
+    margin: 35px 10%;
+}
+
+.banner_description {
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    color: gray;
+    margin: 30px 19%;
+}
+
+.banner_btn {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 600;
+    padding: 15px 20px;
+    border-radius: 8px;
+    background-color: black;
+    border: 3px solid black;
+}
+
+.banner_btn:hover {
+    background-color: transparent;
+    color: black;
+    transition: all 300ms ease-in-out;
+    cursor: pointer;
+}
+
+/* hero banner completed */
