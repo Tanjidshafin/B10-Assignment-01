@@ -214,6 +214,7 @@
     padding: 10%;
     margin-top: 150px;
     border-radius: 16px;
+    margin-bottom: 80px;
 }
 
 .support_title {
@@ -248,3 +249,19 @@
 }
 
 /* Support Section Completed */
+
+footer {
+    background-color: rgba(13, 19, 33, 0.03);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+
+}
+
+.logo_align {
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+/* 98% completed */
