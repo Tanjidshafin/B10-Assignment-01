@@ -86,6 +86,15 @@
 }
 
 /* hero banner completed */
+.container_align {
+    max-width: 1500px;
+    margin: 0 auto;
+}
+
+.video_align {
+    max-width: 1500px;
+}
+
 .container {
     margin: 70px 150px;
 }
@@ -154,6 +163,8 @@
     padding: 40px;
     border: 1px solid rgba(13, 19, 33, 0.2);
     border-radius: 16px;
+    width: 80%;
+    height: 500px;
 
 }
 
